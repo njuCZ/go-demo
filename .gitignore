@@ -25,3 +25,6 @@ go.work.sum
 .env
 header/print-header
 callappname/callappname
+msi/msi
+otel/otel
+redistest/redistest
